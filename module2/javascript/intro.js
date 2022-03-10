@@ -18,4 +18,4 @@ let captainamerica = {
     },
     phone: 22
 }
-captainamerica.sayHi();
+//captainamerica.sayHi();
